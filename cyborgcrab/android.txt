@@ -1,0 +1,3 @@
+title=cyborgcrab
+author=Rickard Verner Hultgren
+orientation=portrait
